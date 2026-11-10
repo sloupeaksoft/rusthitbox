@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "rusthitbox",
+    "name": "Rust Hitbox",
+    "description": "Хитбоксы игрока по модели скина (голова, тело, руки, ноги), разный урон по частям тела и быстрые пули для MineRust Addons.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["sloupeaksoft"]
+  }
+]
